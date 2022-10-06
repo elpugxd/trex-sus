@@ -1,2 +1,1 @@
-# trex-sus
-color
+# JUEGOS-COMPATIBLES-CON-DISPOSITIVOS-AM2
